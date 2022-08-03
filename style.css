@@ -1,0 +1,40 @@
+body{
+    margin: auto 0;
+    padding: 0;
+}
+.totalcontainer{
+
+    background-image: url(images/hero-bg.svg);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+}
+.firstcontainer{
+    
+    margin: auto;
+    width: 30%;
+    
+    
+    }
+    .image{
+        margin: auto;
+        
+        width: 20%;
+    }
+
+h2{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.buttoncont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+
+    
+    
+}
