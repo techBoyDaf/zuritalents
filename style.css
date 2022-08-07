@@ -31,10 +31,36 @@ h2{
 .buttoncont{
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: center; 
     
-
-
+}
+.imagecontainer{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.section2container{
+    display: flex;
+    justify-content: space-between;
+}
+.section2{
+    display: flex;
+    justify-content: space-evenly;      
+   
+}
+.textcontainer{
+    display: flex;
+    justify-content: space-evenly;  
     
-    
+}
+footer{
+    background-color: aliceblue;
+    position: relative;
+    height: 200px;
+    margin-top: 200px;
+   
+}
+.footercontainer{
+    display: flex;
+    justify-content: space-evenly;
 }
